@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Marina (@Gaika73)
-- 👀
 -  I’m interested in coding,photography,mma,cooking and travelling
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on interesting projects
